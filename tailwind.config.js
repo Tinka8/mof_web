@@ -4,7 +4,7 @@ module.exports = {
     variants: {
         extend: {
             colors: {
-                darkblue: "#1a1ab9",
+                
             }
         },
     },
